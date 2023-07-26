@@ -1,2 +1,2 @@
 # ibmProject
-Proyecto sobre stock values y dashboard.
+Proyecto Final sobre IBM
